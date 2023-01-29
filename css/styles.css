@@ -21,10 +21,6 @@ body{
     width: 100%;
     font-size: 1.2rem;
 }
-.public-navbar-main.nav-top {
-    transition: box-shadow 1.5s ease, margin-top 1.5s ease;
-    box-shadow: 0 0 0 rgb(0 0 0 / 0%);
-}
 .public-navbar-main.nav-top .container {
     border-bottom: 1px solid #9ea5a5;
 }
